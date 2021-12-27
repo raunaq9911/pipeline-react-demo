@@ -1,0 +1,13 @@
+.box {
+  margin: 150px auto 0 auto;
+  padding: 30px;
+  width: 500px;
+  height: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+
+.btnGroup {
+  display: flex;
+  justify-content: space-evenly;
+}
