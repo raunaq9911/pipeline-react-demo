@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <div className="box">
-        <h3>Score</h3>
+        <h3>Count</h3>
         <br />
         <div>
           <h1>{count}</h1>
